@@ -1,0 +1,2 @@
+# mymongo
+Insert Data
